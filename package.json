@@ -1,5 +1,6 @@
 {
   "name": "wildfire-tracker",
+  "homepage": "https://chakra-digital.github.io/wildfire-tracker/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
