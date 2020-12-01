@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/wildfire-tracker/static/css/main.1749b561.chunk.css",
-    "main.js": "/wildfire-tracker/static/js/main.9cd83fb0.chunk.js",
-    "main.js.map": "/wildfire-tracker/static/js/main.9cd83fb0.chunk.js.map",
-    "runtime-main.js": "/wildfire-tracker/static/js/runtime-main.f9113149.js",
-    "runtime-main.js.map": "/wildfire-tracker/static/js/runtime-main.f9113149.js.map",
-    "static/js/2.7ea2ade5.chunk.js": "/wildfire-tracker/static/js/2.7ea2ade5.chunk.js",
-    "static/js/2.7ea2ade5.chunk.js.map": "/wildfire-tracker/static/js/2.7ea2ade5.chunk.js.map",
-    "static/js/3.cb30bd2b.chunk.js": "/wildfire-tracker/static/js/3.cb30bd2b.chunk.js",
-    "static/js/3.cb30bd2b.chunk.js.map": "/wildfire-tracker/static/js/3.cb30bd2b.chunk.js.map",
-    "index.html": "/wildfire-tracker/index.html",
-    "static/css/main.1749b561.chunk.css.map": "/wildfire-tracker/static/css/main.1749b561.chunk.css.map",
-    "static/js/2.7ea2ade5.chunk.js.LICENSE.txt": "/wildfire-tracker/static/js/2.7ea2ade5.chunk.js.LICENSE.txt",
-    "static/media/spinner.1155fc46.gif": "/wildfire-tracker/static/media/spinner.1155fc46.gif"
+    "main.css": "/static/css/main.1749b561.chunk.css",
+    "main.js": "/static/js/main.9cd83fb0.chunk.js",
+    "main.js.map": "/static/js/main.9cd83fb0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1cff0219.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1cff0219.js.map",
+    "static/js/2.7ea2ade5.chunk.js": "/static/js/2.7ea2ade5.chunk.js",
+    "static/js/2.7ea2ade5.chunk.js.map": "/static/js/2.7ea2ade5.chunk.js.map",
+    "static/js/3.cb30bd2b.chunk.js": "/static/js/3.cb30bd2b.chunk.js",
+    "static/js/3.cb30bd2b.chunk.js.map": "/static/js/3.cb30bd2b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1749b561.chunk.css.map": "/static/css/main.1749b561.chunk.css.map",
+    "static/js/2.7ea2ade5.chunk.js.LICENSE.txt": "/static/js/2.7ea2ade5.chunk.js.LICENSE.txt",
+    "static/media/spinner.1155fc46.gif": "/static/media/spinner.1155fc46.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9113149.js",
+    "static/js/runtime-main.1cff0219.js",
     "static/js/2.7ea2ade5.chunk.js",
     "static/css/main.1749b561.chunk.css",
     "static/js/main.9cd83fb0.chunk.js"
